@@ -922,9 +922,9 @@ ul {
     padding-bottom: 60px;
     border-bottom: 1px solid var(--color-gray-800);
 }
-
 .footer-logo {
-    height: 160px;
+    filter: brightness(0) invert(1);
+    height: 70px;
     margin-bottom: 120px;
 }
 
